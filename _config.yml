@@ -1,0 +1,17 @@
+title: 'mj063.github.io'
+description: "Site for mj063"
+baseurl: "/jekyll-theme-console"
+url: "http://mj063.github.io"
+
+header_pages:
+  -index.md
+  -test.md
+  -about.md
+
+style: dark
+
+footer: 'on <a href="http://twitter.com/">twitter</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
