@@ -3,9 +3,13 @@ description: "Site for mj063"
 baseurl: ""
 url: "http://mj063.github.io"
 
-header_pages:
-  -main.md
-  -about.md
+navigation:
+  -name: Main
+    url: /
+  - name: About
+    url: /about
+  - name: Archive
+    url: /archive
 
 style: dark
 
