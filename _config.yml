@@ -1,6 +1,6 @@
 title: 'mj063.github.io'
 description: "Site for mj063"
-baseurl: "/jekyll-theme-console"
+baseurl: ""
 url: "http://mj063.github.io"
 
 header_pages:
