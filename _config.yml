@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: 'on <a href="http://twitter.com/">twitter</a>'
+footer: 'on <a href="http://github.com/">github</a>'
 
 # Build settings
 markdown: kramdown
